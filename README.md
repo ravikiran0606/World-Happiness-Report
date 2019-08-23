@@ -1,2 +1,2 @@
 # World-Happiness-Analysis
-An analysis of the major factors that lead people to happiness.
+An analysis of the various factors that enriched happiness among people and the co-relations among those factors.
